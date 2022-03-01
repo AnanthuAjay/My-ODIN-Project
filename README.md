@@ -10,5 +10,6 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-##Badges
-https://img.shields.io/github/license/AnanthuAjay/ODP-signupform https://img.shields.io/twitter/url?style=social
+## Badges
+https://img.shields.io/github/license/AnanthuAjay/ODP-signupform 
+https://img.shields.io/twitter/url?style=social
